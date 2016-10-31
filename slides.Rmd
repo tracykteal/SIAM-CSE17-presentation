@@ -1,7 +1,7 @@
 ---
 title: 'Democratizing data skills to advance data-driven-discovery'
 author: "Tracy K. Teal, PhD <br>Data Carpentry, Executive Director <br> @tracykteal,
-  @datacarpentry <br>Find these slides on GitHub: https://github.com/tracykteal/MooreDDD-presentation/"
+  @datacarpentry <br>Find these slides on GitHub: https://github.com/tracykteal/msdse-presentation/"
 output:
   ioslides_presentation:
     css: styles.css
