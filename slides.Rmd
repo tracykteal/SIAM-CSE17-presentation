@@ -1,7 +1,7 @@
 ---
-title: 'Democratizing data skills to advance data-driven-discovery'
+title: 'Data skills and software training to enable data-driven-discovery'
 author: "Tracy K. Teal, PhD <br>Data Carpentry, Executive Director <br> @tracykteal,
-  @datacarpentry <br>Find these slides on GitHub: https://github.com/tracykteal/msdse-presentation/"
+  @datacarpentry <br>Find these slides on GitHub: https://github.com/tracykteal/SIAM-CSE17-presentation/"
 output:
   ioslides_presentation:
     css: styles.css
@@ -14,7 +14,12 @@ output:
     highlight: pygments
 ---
 
+---
 
+<img src="images/bsbr.jpg" width="600px" align="center" />
+
+
+# Happy Coder. Better Research.
 
 ---
 
@@ -25,21 +30,9 @@ Data production is no longer the bottleneck.
 
 We can collect and analyze data that gives us information and
 insight in a way we never could before. It opens up possibilities
-for the types of work we can do and questions we can ask. 
+for the types of work we can do and questions we can ask.
 </div>
 
----
-
-<img src="images/computer-happy.jpg" width="1000px" align="center" />
-
-<div class="notes">
-But with the opportunity to collect data there comes challenges
-and frustrations. That's part of why we're here today, to present and learn from each other how people are addressing the challenges.
-</div>
-
----
-
-<img src="images/computer-sad.jpg" width="1000px" align="center" />
 
 ## {.flexbox .vcenter}
 
@@ -47,20 +40,20 @@ Software and tools allow us to turn data into information.
 
 <div class="notes">
 We put a lot of emphasis on the development of tools and approaches, and rightfully so. These tools help us get to the 'now what' and turn data into information. Grants and VCs support this work
-that give us a new view of the data or a way to use it. 
+that give us a new view of the data or a way to use it.
 </div>
 
-## {.flexbox .vcenter} 
+## {.flexbox .vcenter}
 
 People turn information into knowledge.
 
 <div class="notes">
 It is not the tools that do the work to turn data into knowledge
-or make the discoveries. People are the ones who turn information 
-into knowledge. 
+or make the discoveries. People are the ones who turn information
+into knowledge.
 </div>
 
-## {.flexbox .vcenter} 
+## {.flexbox .vcenter}
 
 By making data accessible and putting the data skills and the perspectives in the hands of all researchers, we allow them to answer their own questions and capture their passion and expert knowledge.
 
@@ -70,29 +63,18 @@ do this work, we're losing that curiousity, that drive, that
 expert knowledge.
 
 Story about person. Who better to do or be a part of the analysis
-of the ... gemone than the person who has spent their entire 
+of the ... gemone than the person who has spent their entire
 career working on it. If they hand it to me, I'm not as movitated,
  and I might not even get it right.
- 
+
 </div>
 
 
-# Unleash the potential of data by empowering people
+# How do we scale data and software skills and literacy along with data production?
 
-<div class="notes">
-Data and people can reach their full potential when 
-we give more people the skills and perspective to 
-work effectively with data.
+# Training
 
-It's more than the skills, and also the perspective
-to understand what's possible with data. How it's stored, how
-we can access it, the types of outcomes we can see. It's often
-difficult to understand what you can do, without knowing what's possible.
-</div>
-
-# How do we scale data skills and literacy along with data production?
-
-## Researchers want these skills
+## Researchers want training
 
 Most useful thing Bioinformatics Resource Australia can do
 
@@ -102,8 +84,16 @@ Most useful thing Bioinformatics Resource Australia can do
 [BRAEMBL community survey report](http://braembl.org.au/news/braembl-community-survey-report-2013)
 </font>
 
+## How do we provide training? {.flexbox .vcenter}
 
-## Training in the Gaps: Active researchers
+- Training in the gaps
+- Scaling curriculum and instructors
+- Friendly learning environment
+
+
+# Training in the Gaps
+
+## Training active researchers
 
 Active researchers and employees are learning these skills "on the job".
 
@@ -125,47 +115,14 @@ Need to develop and deliver training that fits in their time and attention.
 - Researchers need to build confidence and the belief that they are capable of computational work, self-efficacy
 </div>
 
-## {.flexbox .vcenter} 
+## Software Carpentry and Data Carpentry
 
-<img src="images/DC_logo_vision.png" width="600px" align="center" />
+Community organizations training researchers in best practices for data analysis and software development to make research more effective and reproducible. 
 
-
-## Data Carpentry
-
-Data Carpentry teaches domain-specific two-day, **hands-on workshops** on the foundational concepts, skills and tools for working more effectively with data. 
-
-No prior computational experience is required to attend workshops.
-
-Workshops are taught by trained volunteer instrductors. 
-
-Lesson materials are collaboratively and openly developed. 
-
-### Workshop goals
-
-- Teach skills
-
-- Build confidence
-
-- Change perspectives
-
-## What we teach
-
-Focused on data - teaches how to manage and analyze data in an effective and reproducible way.
-
-### Biology
-
-<div class="columns-2">
-
-- Data organization with spreadsheets
-- OpenRefine for data cleaning
-- SQL for data management
-- R or Python for data analysis and visualization
-
-<img src="images/lesson-topics.png" width="500px" align="center" />
-
-Genomic and Geospatial data lessons cover topics relevant to those data types. Working on social sciences, library and image analysis.
-
-
+- Core skills for effective research computing
+- Two-day hands-on workshops
+- Collaboratively developed, openly licensed lesson materials
+- Over 700 trained volunteer instructors on 6 continents 
 
 ## How we teach: Hands on intensive workshops
 
@@ -186,91 +143,69 @@ Genomic and Geospatial data lessons cover topics relevant to those data types. W
 
 </div>
 
-<div class="notes">
-- Short: Two days
-- Impactful: Focused time
-- Convenient: Held at the university or organization
-- Interactive: Hands-on teaching and exercises
-- Immediate feedback: sticky notes & minute cards
-- Qualified instructors
-- Shared learning and a friendly learning environment
-</div>
-
-## Instructors
-<img src="images/instructors.png" width="1000px" align="=center" />
-
-## Outcomes
-
-- Learner outcomes
-- Instructor outcomes
-- Community!
-
-## Workshop goals
-
-- Teach skills
-
-- Build confidence
-
-- Change perspectives 
-
-## Increased skill levels reported
-
-<img src="images/skills1.png" width="600px" />
-
-# {.centered}
-<img src="images/following.png" width="600px" align="center" />
-
-
-## Increased confidence in ability to use skills
+## What we teach
 
 <div class="columns-2">
 
-<img src="images/apply2.png" width="400px" />
+Foundational skills needed to effectively conduct computational research.
 
-<img src="images/knowledge.png" width="400px" />
+**Software Carpentry**
+Domain-agnostic and focused on better coding practices.
 
-## Change in perspective about use of skills for reproducible research
+**Data Carpentry**  
+Domain specific and focused on how to work effectively with data.
 
-<img src="images/attitude2.png" width="500px" />
+<img src="images/swc.png" width="500px" align="center" />
 
 
+<img src="images/lesson-topics.png" width="500px" align="center" />
 
-# {.centered}
-<img src="images/time.png" width="600px" align="center" />
 
-# {.centered}
+## People are learning the skills
+
+<img src="images/skills1.png" width="600px" />
+
+## Skills are practical & workshops worth their time
+
+<img src="images/practical-time2.png" width="900px" align="center"/>
+
+# Scaling curriculum and instructors
+
+## Sharing curriculum and creating instructors
+
+- **Collaboratively developed, openly accessible lessons**
+
+  - http://www.software-carpentry.org/lessons  
+  - http://www.datacarpentry.org/lessons
+
+- **Instructor training program**
+
+## {.flexbox .vcenter}
+
+Since 2015
+
+- 690 workshops
+- 14,642 learners
+- 6 continents
+
+# Friendly learning environment
+
+## Need confidence to continue learning
+
+- Meeting learners where they are
+- Code of conduct
+
+## Learners feel they can apply what they learned
+
+<img src="images/apply.png" width="600px" align="center" />
+
+## Would recommend the workshop to a colleague or friend
+
 <img src="images/recommend.png" width="600px" align="center" />
+
 
 # {.centered}
 <img src="images/wordcloud.png" width="800px" align="center" />
-
-## Instructor outcomes
-
-- People learn new technical skills
-- They have a community - no more 'lone informatician'
-- People become better communicators
-- Gain value from giving back and empowering people with the skills they have learned are valuable
-
-## Community!
-
-An active and engaged community of instructors and learners, both using
-and advocating for best practices in effective and reproducible research
-
-
-<div class="notes">
-Survey question about strongly agree that you would recommend to a friend
-</div>
-
-
-## {.centered}
-
-<img src="images/summary.png" width="900px" align="=center" />
-
-<div class="notes">
-- Active researchers and employees are very motivated, but need 'on the job' training
-- Training for active researchers needs to teach in the gaps
-- Workshops and curriculum like Data Carpentry can get researchers started learning, learn skills immediately relevant to their work and build confidence
-</div>
 
 ## How can you or your organization be involved
 
@@ -294,7 +229,14 @@ Survey question about strongly agree that you would recommend to a friend
 - Gordon and Betty Moore Foundation
 - National Science Foundation BIO Centers: iDigBio, CyVerse, NESCent, SESYNC, BEACON, NEON
 
+# Happy Coders. Better Software. Better Research.
 
+---
+
+
+## {.flexbox .vcenter}
+
+<img src="images/DC_logo_vision.png" width="600px" align="center" />
 
 
 
